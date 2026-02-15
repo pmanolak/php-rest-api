@@ -13,4 +13,4 @@ Source code to accompany this video: https://youtu.be/X51KOJKrofU
 * Data validation
 * JSON decoding and encoding
 
-Complete API course, including authentication: https://davehollingworth.net/phpapisy
+Complete API course, including authentication: https://davehollingworth.com/courses
